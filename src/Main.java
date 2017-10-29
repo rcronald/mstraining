@@ -5,6 +5,6 @@ public class Main {
 
         System.out.println(".----");
 
-        System.out.println("Hello Feature03!");
+        System.out.println("Hello Feature03.02!");
     }
 }
